@@ -1,0 +1,16 @@
+name: py_env
+channels:
+  - defaults
+dependencies:
+  - notebook
+  - numpy
+  - pandas
+  - python=3.11
+  - scikit-learn
+  - scipy
+  - seaborn
+  - jupyterlab
+  - statsmodels
+  - matplotlib
+  - ipykernel
+prefix: /mnt/ADATA_SSD/Programs/anaconda3/envs/py_env
