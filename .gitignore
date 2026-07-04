@@ -12,3 +12,6 @@ data/raw/
 
 # never commit Anaconda installation
 anaconda3/
+cluster
+cluster.pub
+*.pem
