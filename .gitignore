@@ -1,0 +1,14 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+
+# optional: ignore large/local data
+data/raw/
+*.zip
+*.tar
+*.tar.gz
+
+# never commit Anaconda installation
+anaconda3/
